@@ -1,7 +1,22 @@
-from googletrans import Translator
+from english import spanishToEnglish
+from spanish import englishToSpanish
 
-translator = Translator()
+def menuText():
+    print("Welcome to the Spanglish translator, which language would you like to translate to?")
+    print("1.) Spanish to English")
+    print("2.) English to Spanish")
 
-done = translator.translate("Hello", dest="en")
+def menu():
+    
+    menuText()
 
-print(done.text)
+    key = int(input())
+
+    if key == 1:
+        translate = spanishToEnglish(input("What would you like to translate?"))
+    if key == 2:
+        translate = englishToSpanish(input("What would you like to translate?"))
+
+    print(translate)
+
+menu()
