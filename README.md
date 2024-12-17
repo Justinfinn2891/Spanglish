@@ -1,4 +1,4 @@
-![screenshot](dadwae.png)
+![screenshot](spanglish.png)
 
 # Spanglish (Spanish/English translator)
 Spanglish is a language interpreter and translator that takes simple text and switches it to your chosen language.
