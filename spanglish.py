@@ -1,3 +1,4 @@
+# RUN SPANGLISH.PY IF YOU AREN'T RUNNING OFF AN IDE THAT SUPPORTS GUI INTERFACE
 from english import spanishToEnglish
 from spanish import englishToSpanish
 
