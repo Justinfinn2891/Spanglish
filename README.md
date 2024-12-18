@@ -11,11 +11,15 @@ Spanglish is a language interpreter and translator that switches simple text to 
 - Added simple GUI interface with Tkinter library
 - Fixed issues with googletrans version with update
 
-## Current: Version 1.2
+## Version 1.2
 - Updated GUI and added buttons
 
 ![screenshot](example.png)
 
+## Version 1.3
+- Added imagery and updated the interface
+
+![screenshot](example2.png)
 
 ## How To Use
 - Download the repo from GitHub
