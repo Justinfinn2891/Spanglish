@@ -19,7 +19,7 @@ Spanglish is a language interpreter and translator that switches simple text to 
 ## Version 1.3
 - Added imagery and updated the interface
 
-![screenshot](example2.png)
+![screenshot](example2.PNG)
 
 ## How To Use
 - Download the repo from GitHub
